@@ -1,3 +1,5 @@
 <?php
 
-		ehco 'ceshi';
+		echo 'ceshi';
+
+		echo 'ddee';
